@@ -1,0 +1,20 @@
+{
+  "name": "stopligh-test",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "inheritedOverrides": {
+    "array-items": {
+      "severity": "warn"
+    }
+  },
+  "extendedDefault": false
+}
