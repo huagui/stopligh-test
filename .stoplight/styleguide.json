@@ -13,7 +13,7 @@
   "rules": {},
   "inheritedOverrides": {
     "array-items": {
-      "severity": "off"
+      "severity": "info"
     }
   },
   "extendedDefault": false
