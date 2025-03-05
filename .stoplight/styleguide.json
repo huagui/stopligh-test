@@ -14,6 +14,9 @@
   "inheritedOverrides": {
     "array-items": {
       "severity": "warn"
+    },
+    "no-$ref-siblings": {
+      "severity": "warn"
     }
   },
   "extendedDefault": false
