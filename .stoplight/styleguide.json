@@ -17,6 +17,9 @@
     },
     "no-$ref-siblings": {
       "severity": "warn"
+    },
+    "oas2-api-schemes":{
+       "severity": "hint"
     }
   },
   "extendedDefault": false
